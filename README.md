@@ -15,7 +15,7 @@ This project involves cleaning the "marketing_campaign.csv" dataset and preparin
 
 The file AICustomerPersonality.xlsx was cleaned using ChatGPT with guidance through prompt engineering. With a basic understanding of prompt structure and task framing, this entire data cleaning process was completed in j5 to 6 minuteses**.
 
-I have also attached a screenshot showing how ChatGPT worked on the file step-by-step for complete transparency and reference.
+I have also attached screenshots showing how ChatGPT worked on the file step-by-step for complete transparency and reference.
 
 ## Output
 
